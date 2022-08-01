@@ -8,6 +8,6 @@
         echo $name; 
         echo $age;
         echo $gender;
-        echo $email;
-        echo $number;
+        // echo $email;
+        // echo $number;
 ?>
